@@ -36,11 +36,6 @@ Connect the components on your breadboard according to the following pin configu
 4. **Green LED:** * Connect the **Anode** (long leg) to Arduino **Digital Pin 10**.
    * Connect the **Cathode** (short leg) to the ground rail through a 220Ω resistor.
 
-## 💻 Arduino Code
-
-The complete source code is kept clean and organized in its own sketch file within this repository. 
-
-👉 **[Click here to view the Traffic Light Code](Traffic_Lights_3_LEDs/Traffic_Lights_3_LEDs.ino)**
 
 ### Code Logic Breakdown:
 * **Green Light:** Stays on for 5 seconds.
