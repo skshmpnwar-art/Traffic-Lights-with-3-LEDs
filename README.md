@@ -50,6 +50,4 @@ Connect the components on your breadboard according to the following pin configu
 4. Select your correct **Board** and **Port** under the **Tools** menu.
 5. Click **Upload** to flash the code to your Arduino.
 
-## 📝 License
 
-This project is open-source and available under the [MIT License](LICENSE).
