@@ -1,6 +1,5 @@
 # Traffic-Lights-with-3-LEDs
 Hardware Projects (Arduino)
-# Traffic Lights Simulation with 3 LEDs
 
 An introductory Arduino project that simulates a standard traffic light system using Red, Yellow, and Green LEDs. The project sequences the LEDs to mimic real-world traffic signals using timing delays.
 
